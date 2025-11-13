@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "forms_example",
     "feedback",
+    "posts",
 ]
 
 MIDDLEWARE = [
